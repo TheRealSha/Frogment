@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Frogment</string>
+    <string name="btn_welcome_msg">Click for Frog!</string>
+    <string name="main_activity_label">First Fragment Part 2!</string>
+</resources>
